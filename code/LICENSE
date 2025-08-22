@@ -1,53 +1,63 @@
-  CitizenFX/FiveM are (c) 2017-2020 the CitizenFX Collective.
+Vidllux – A Custom Fork of CitizenFX  
+Copyright © 2025 DJsiita Studios (Elijah Siita / DJsiita)
 
-  Use of this source code is subject to the terms provided on the CitizenFX
-Collective web site, currently versioned (4) at the following web URL:
+This software includes source code from the CitizenFX Framework  
+by NTAuthority, licensed under the MIT License.
 
-  https://fivem.net/terms
+────────────────────────────────────────────  
+⚖ CitizenFX Framework – MIT License  
+────────────────────────────────────────────  
+Copyright (c) 2014 Bas Timmer / NTAuthority et al.
 
-  The following files, as long as they are marked as licensed under the
-CitizenFX Project license, are optionally available under the LGPLv2, as in
-point 21) of the FiveM Platform Service Agreement, as of the time of this
-writing:
-
-  client/shared/
-  client/citicore/
-  client/launcher/
-  client/common/
-  tools/
-  components/citizen-*/
-  components/font-renderer/
-  components/vfs-core/
-  components/steam/
-  vendor/*.lua
-  ./
-
-  When using other components, please take into account point 20) in the FiveM
-PSA.
-
-  This project is based on the original CitizenFX framework by NTAuthority,
-the original permission notice of which is reproduced below.
-
-  Please note that this permission notice does not apply to any changes made
-since 2016.
-
-Copyright (c) 2014 Bas Timmer/NTAuthority et al.
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
+Permission is hereby granted, free of charge, to any person obtaining a copy  
+of this software and associated documentation files (the "Software"), to deal  
+in the Software without restriction, including without limitation the rights  
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell  
+copies of the Software, and to permit persons to whom the Software is  
 furnished to do so, subject to the following conditions:
 
-The above copyright notice and this permission notice shall be included in
-all copies or substantial portions of the Software.
+The above copyright notice and this permission notice shall be included  
+in all copies or substantial portions of the Software.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
-THE SOFTWARE.
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED,  
+INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A  
+PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR  
+COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER  
+IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION  
+WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+────────────────────────────────────────────  
+🔒 DJsiita Studios License – Proprietary Additions  
+────────────────────────────────────────────  
+All modifications, new features, systems, and tools added to the CitizenFX base by  
+DJsiita Studios are the exclusive intellectual property of DJsiita Studios.
+
+This includes, but is not limited to:  
+- Custom gameplay systems  
+- DJsiita-developed scripts, extensions, or APIs  
+- User interface elements unique to Vidllux  
+- Any branding, names, or proprietary logic introduced by DJsiita Studios
+
+You are NOT permitted to:  
+- Redistribute or republish any modified versions of this code  
+- Use DJsiita-exclusive systems or assets without written permission  
+- Claim authorship of DJsiita’s original contributions  
+- Reverse-engineer or disassemble proprietary Vidllux components
+
+This software is for **internal or authorized use only** by DJsiita Studios.
+
+Unauthorized use, distribution, or tampering is strictly prohibited and may result in  
+legal enforcement under applicable intellectual property laws.
+
+**Protected under Zambian copyright law and international treaties (Berne Convention).**
+
+────────────────────────────────────────────  
+📫 LEGAL CONTACT  
+────────────────────────────────────────────  
+
+DJsiita Studios (Elijah Siita)  
+Email: evbogh@gmail.com
+
+────────────────────────────────────────────  
+End of License.
 
