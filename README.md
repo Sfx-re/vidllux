@@ -1,4 +1,4 @@
-h# <img src="# 🎮 Vidllux Engine – Custom Multiplayer Framework
+# <img src="# 🎮 Vidllux Engine – Custom Multiplayer Framework
 
 **Copyright (c) 2025 DJsiita Studios (Elijah Siita / VidllQ Authority)**
 
