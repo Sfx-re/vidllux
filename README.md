@@ -1,25 +1,34 @@
-<p align="center">
-  <img src="vidllux_logo.svg" width="400" alt="Vidllux Engine logo">
-</p>
+# 🔒 Security Notice – Vidllux Engine
 
-# 🎮 Vidllux Engine – Custom Multiplayer Framework
-
-**Copyright (c) 2025 DJsiita Studios (Elijah Siita / VidllQ Authority)**
+DJsiita Studios takes the security of Vidllux Engine and its associated services very seriously.  
+This includes both the framework itself and any multiplayer or online components provided with the engine.
 
 ---
 
-## 🔥 Overview
+# ⚠️ Usage & Security Guidelines
 
-Vidllux Engine is a **dual-purpose modification framework** for modern game development, inspired by Cfx.re (FiveM/RedM).  
-It provides powerful tools for **single-player (SP) and multiplayer (MP)** game modifications, server management, and custom gameplay systems.
-
-This repository contains the framework and server code for multiplayer game services, built to expand game functionality on an **end-to-end level**.  
+Vidllux Engine is **proprietary software**. You are **allowed to use the framework**, but **NOT the source code**.  
+Any attempt to access, modify, redistribute, or reverse-engineer the source code is strictly prohibited.
 
 ---
 
-## ⚙️ Projects Included
+# ⚠️ Reporting Security Issues
 
-- **Vidllux SP/MP Framework** – Custom framework you are allowed to use in your projects.  
+**Do not report security vulnerabilities via public GitHub issues or pull requests.**  
+
+- Public reports will be deleted immediately.  
+- Repeated public reporting may result in restricted access to the repository or your GitHub account.  
+- Public disclosure of security issues is **not considered responsible** and may put users and projects at risk.
+
+### How to Report Responsibly
+
+Please report security issues using one of the following channels:
+
+- **Support Email:** [legalvidllq@gmail.com](mailto:legalvidllq@gmail.com)  
+- **Official Contact Form:** [DJsiita Studios Contact](https://yourwebsite.com/contact)
+
+A member of the DJsiita Studios team will review and respond within 24 hours.  
+If you do not receive a response, please follow up via the same channel.
 - **Vidllux MP Server** – Server component for hosting multiplayer services and managing player interactions.  
 - **Custom Networking Systems** – Embedded networking frameworks expanded for full engine integration.  
 
