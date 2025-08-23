@@ -86,3 +86,8 @@ Website: [your website here]
 ## ⚡ TL;DR
 
 Vidllux Engine = 🔒 Proprietary + 🚀 Powerful Multiplayer Framework + 🎨 Fully Custom + 💡 Internal Studio Use Only
+---
+
+## 🔒 Security
+
+For responsible reporting of vulnerabilities and guidelines on framework usage, see our [SECURITY.md](SECURITY.md) file.
