@@ -1,62 +1,46 @@
-Vidllux – A Custom Fork of CitizenFX   
-Copyright © 2025 DJsiita Studios (Elijah Siita / DJsiita)
+Vidllux – A Custom Fork of CitizenFX
+Copyright (c) 2025–2026 DJsiita Studios (Elijah Siita / VidllQ Authority)
 
-This software includes source code from the CitizenFX Framework  
-by NTAuthority, licensed under the MIT License.
+Vidllux is a fully proprietary custom fork of the CitizenFX Framework (FiveM).  
+All modifications, scripts, modules, tools, and branding are created and maintained by DJsiita Studios under the authority of VidllQ Limited.
 
-────────────────────────────────────────────  
-⚖ CitizenFX Framework – MIT License  
-────────────────────────────────────────────  
-Copyright (c) 2014 Bas Timmer / NTAuthority et al.
+────────────────────────────────────────────
 
-Permission is hereby granted, free of charge, to any person obtaining a copy  
-of this software and associated documentation files (the "Software"), to deal  
-in the Software without restriction, including without limitation the rights  
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell  
-copies of the Software, and to permit persons to whom the Software is  
-furnished to do so, subject to the following conditions:
+🔒 VIDLLUX LICENSE – DJsiita Studios Proprietary
 
-The above copyright notice and this permission notice shall be included  
-in all copies or substantial portions of the Software.
+────────────────────────────────────────────
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED,  
-INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A  
-PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR  
-COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER  
-IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION  
-WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
-
-────────────────────────────────────────────  
-🔒 DJsiita Studios License – Proprietary Additions  
-────────────────────────────────────────────  
-All modifications, new features, systems, and tools added to the CitizenFX base by  
-DJsiita Studios are the exclusive intellectual property of DJsiita Studios.
+All original code, modifications, features, scripts, interfaces, systems, tools, and branding created by DJsiita Studios are the exclusive intellectual property of DJsiita Studios / VidllQ Limited.  
 
 This includes, but is not limited to:  
-- Custom gameplay systems  
-- DJsiita-developed scripts, extensions, or APIs  
-- User interface elements unique to Vidllux  
-- Any branding, names, or proprietary logic introduced by DJsiita Studios
+- Core server runtime and framework logic  
+- Custom gameplay systems, modules, and scripts  
+- Client-side scripts, UI, and multiplayer enhancements  
+- Build tools, configuration systems, and deployment pipelines  
+- Branding, logos, and product names associated with Vidllux  
 
-You are NOT permitted to:  
-- Redistribute or republish any modified versions of this code  
-- Use DJsiita-exclusive systems or assets without written permission  
-- Claim authorship of DJsiita’s original contributions  
-- Reverse-engineer or disassemble proprietary Vidllux components
+### You are NOT permitted to:  
+- Use Vidllux or its code outside DJsiita Studios / VidllQ Limited without written permission  
+- Redistribute, publish, or upload any part of Vidllux publicly  
+- Modify, decompile, reverse-engineer, or tamper with proprietary components  
+- Share it with third parties without explicit authorization  
 
-This software is for **internal or authorized use only** by DJsiita Studios.  
-Unauthorized use, distribution, or tampering is strictly prohibited and may result in  
-legal enforcement under applicable intellectual property laws.
+This software is for **internal or authorized use only** by DJsiita Studios / VidllQ Limited.  
+Unauthorized use, distribution, or tampering may result in **legal enforcement** under applicable copyright law.  
 
 **Protected under Zambian copyright law and international treaties (Berne Convention).**
 
-────────────────────────────────────────────  
-📫 LEGAL CONTACT  
-────────────────────────────────────────────  
-DJsiita Studios (Elijah Siita)  
-Email: evbogh@gmail.com
+────────────────────────────────────────────
 
-────────────────────────────────────────────  
+📍 NOTICE
+
+────────────────────────────────────────────
+
+If Vidllux appears publicly, on the internet, or in leaked form, DJsiita Studios / VidllQ Limited is **not responsible**.  
+Any unauthorized distribution is a violation of this license and is subject to takedown under copyright law.  
+
+Use of Vidllux implies full agreement to these terms.
+
+────────────────────────────────────────────
+
 End of License.
-
-
