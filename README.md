@@ -88,3 +88,13 @@ For legal or licensing inquiries:
 
 Vidllux Engine = 🔒 Proprietary + 🚀 Multiplayer Framework + 🎨 Fully Custom + 💡 Internal Studio Use Only  
 **Protected: no entity, including Rockstar, can legally claim or remove the source code.**
+
+---
+
+## 🎮 Requirements & Legal Notice
+
+Vidllux is a proprietary modification platform and requires a **legally purchased copy of Grand Theft Auto V** to function.  
+Purchase of Vidllux **does not include GTA V**. Users must obtain GTA V from authorized retailers before using Vidllux.  
+
+Vidllux is fully independent and licensed under the **DJsiita Studios Proprietary License**.
+disclaimer
