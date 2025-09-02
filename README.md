@@ -57,6 +57,7 @@ A response will be provided within 24 hours.
 - Licensed under the **VidllQ Limited Proprietary License**.  
 - Protected under **Zambian copyright law** and international treaties  
   (Berne Convention).  
+- **Rockstar, FiveM, or any other entity cannot legally take down or claim Vidllux source code.**
 
 ---
 
@@ -85,4 +86,5 @@ For legal or licensing inquiries:
 
 ## ⚡ TL;DR
 
-Vidllux Engine = 🔒 Proprietary + 🚀 Multiplayer Framework + 🎨 Fully Custom + 💡 Internal Studio Use Only
+Vidllux Engine = 🔒 Proprietary + 🚀 Multiplayer Framework + 🎨 Fully Custom + 💡 Internal Studio Use Only  
+**Protected: no entity, including Rockstar, can legally claim or remove the source code.**
