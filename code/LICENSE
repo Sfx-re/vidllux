@@ -1,46 +1,45 @@
 Vidllux – A Custom Fork of CitizenFX
-Copyright (c) 2025–2026 DJsiita Studios (Elijah Siita / VidllQ Authority)
+Copyright (c) 2024–2025 DJsiita Studios (Elijah Siita / VidllQ Limited – Sfx.re)
 
-Vidllux is a fully proprietary custom fork of the CitizenFX Framework (FiveM).  
-All modifications, scripts, modules, tools, and branding are created and maintained by DJsiita Studios under the authority of VidllQ Limited.
+Vidllux is a fully proprietary custom fork of the CitizenFX Framework (FiveM). All modifications, scripts, modules, tools, and branding are created and maintained by DJsiita Studios under the authority of VidllQ Limited.
 
-────────────────────────────────────────────
+──────────────────────────────────────────────
 
-🔒 VIDLLUX LICENSE – DJsiita Studios Proprietary
+VIDLLUX LICENSE – DJsiita Studios Proprietary
 
-────────────────────────────────────────────
+──────────────────────────────────────────────
 
-All original code, modifications, features, scripts, interfaces, systems, tools, and branding created by DJsiita Studios are the exclusive intellectual property of DJsiita Studios / VidllQ Limited.  
+All original code, modifications, features, scripts, interfaces, systems, tools, and branding created by DJsiita Studios are the exclusive intellectual property of DJsiita Studios / VidllQ Limited.
 
-This includes, but is not limited to:  
-- Core server runtime and framework logic  
-- Custom gameplay systems, modules, and scripts  
-- Client-side scripts, UI, and multiplayer enhancements  
-- Build tools, configuration systems, and deployment pipelines  
-- Branding, logos, and product names associated with Vidllux  
+This includes, but is not limited to:
+- Core server runtime and framework logic
+- Custom gameplay systems, modules, and scripts
+- Client-side scripts, UI, and multiplayer enhancements
+- Build tools, configuration systems, and deployment pipelines
+- Branding, logos, and product names associated with Vidllux
 
-### You are NOT permitted to:  
-- Use Vidllux or its code outside DJsiita Studios / VidllQ Limited without written permission  
-- Redistribute, publish, or upload any part of Vidllux publicly  
-- Modify, decompile, reverse-engineer, or tamper with proprietary components  
-- Share it with third parties without explicit authorization  
+You are NOT permitted to:
+- Use Vidllux or its code outside DJsiita Studios / VidllQ Limited without written permission
+- Redistribute, publish, or upload any part of Vidllux publicly
+- Modify, decompile, reverse-engineer, or tamper with proprietary components
+- Share it with third parties without explicit authorization
 
-This software is for **internal or authorized use only** by DJsiita Studios / VidllQ Limited.  
-Unauthorized use, distribution, or tampering may result in **legal enforcement** under applicable copyright law.  
+This software is for internal or authorized use only by DJsiita Studios / VidllQ Limited.
+Unauthorized use, distribution, or tampering may result in legal enforcement under applicable copyright law.
 
-**Protected under Zambian copyright law and international treaties (Berne Convention).**
+Protected under Zambian copyright law and international treaties (Berne Convention).
 
-────────────────────────────────────────────
+──────────────────────────────────────────────
 
-📍 NOTICE
+NOTICE
 
-────────────────────────────────────────────
+──────────────────────────────────────────────
 
-If Vidllux appears publicly, on the internet, or in leaked form, DJsiita Studios / VidllQ Limited is **not responsible**.  
-Any unauthorized distribution is a violation of this license and is subject to takedown under copyright law.  
+If Vidllux appears publicly, on the internet, or in leaked form, DJsiita Studios / VidllQ Limited is not responsible.
+Any unauthorized distribution is a violation of this license and is subject to takedown under copyright law.
 
 Use of Vidllux implies full agreement to these terms.
 
-────────────────────────────────────────────
+──────────────────────────────────────────────
 
 End of License.
