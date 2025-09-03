@@ -1,4 +1,4 @@
-# CitizenFX Native Project
+# Sfx.re Native Project
 
 This directory contains the primary native CitizenFX project.
 
