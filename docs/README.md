@@ -1,4 +1,4 @@
-# Cfx.re Developer Documentation
+# Sfx.re Developer Documentation
 
 This directory contains developer documentation for the Cfx.re projects.
 
