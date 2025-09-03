@@ -1,5 +1,5 @@
 Vidllux – A Custom Fork of CitizenFX
-Copyright (c) 2025–2026 DJsiita Studios (Elijah Siita / VidllQ Authority)
+Copyright (c) 2024–2025 DJsiita Studios (Elijah Siita / VidllQ Authority)
 
 ────────────────────────────────────────────
 
