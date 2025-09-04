@@ -23,7 +23,7 @@ To build FiveM, RedM or FXServer on Windows you need the following dependencies:
 Then, execute the following commands in a `cmd.exe` shell to set up the build environment:
 
 ```bat
-git clone https://github.com/citizenfx/fivem.git -c core.symlinks=true
+git clone https://github.com/Sfx-re/vidllux.git -c core.symlinks=true
 cd fivem
 git submodule update --jobs=16 --init
 
