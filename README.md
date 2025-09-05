@@ -1,4 +1,4 @@
-# 🚀 Vidllux Engine – by VidllQ Limited
+# 🚀 Vidllux Engine – by Sfx.re Limited
 
 Vidllux Engine is a proprietary multiplayer and game framework developed and maintained by **VidllQ Limited**.  
 It is a custom fork of the CitizenFX framework, expanded with new systems, branding, and modules.
@@ -9,6 +9,11 @@ It is a custom fork of the CitizenFX framework, expanded with new systems, brand
 
 DJsiita Studios / VidllQ Limited takes the security of Vidllux Engine and its services very seriously.  
 This includes both the framework itself and any multiplayer or online components.
+
+### 🚫 Rockstar / Take-Two Boundary
+Vidllux is an independent, proprietary project.  
+**Rockstar Games, Take-Two Interactive, or any affiliated entities are strictly forbidden from accessing, using, or engaging with this project.**  
+Any attempt by such entities to interfere with Vidllux will be considered a violation of this license.
 
 ### Usage & Restrictions
 Vidllux Engine is **proprietary software**.  
@@ -96,5 +101,4 @@ Vidllux Engine = 🔒 Proprietary + 🚀 Multiplayer Framework + 🎨 Fully Cust
 Vidllux is a proprietary modification platform and requires a **legally purchased copy of Grand Theft Auto V** to function.  
 Purchase of Vidllux **does not include GTA V**. Users must obtain GTA V from authorized retailers before using Vidllux.  
 
-Vidllux is fully independent and licensed under the **DJsiita Studios Proprietary License**.
-disclaimer
+Vidllux is fully independent and licensed under the **DJsiita Studios Proprietary License**.  
