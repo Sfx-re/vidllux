@@ -1,4 +1,4 @@
-# CitizenFX Runtime Data
+# Sfx.re Runtime Data
 
 This directory contains data which will be copied to the project layout directory on build, and is required at runtime.
 
