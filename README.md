@@ -102,4 +102,4 @@ Vidllux is a proprietary modification platform and requires a **legally purchase
 Purchase of Vidllux **does not include GTA V**. Users must obtain GTA V from authorized retailers before using Vidllux.  
 
 Vidllux is fully independent and licensed under the **DJsiita Studios Proprietary License**.  
-in future I'll stop supporting GTAvin
+in future I'll stop supporting GTAV
