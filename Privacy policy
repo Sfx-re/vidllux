@@ -1,19 +1,21 @@
 # Vidllux Source Code Access Policy
 
+Vidllux is a modification for Grand Theft Auto V, enabling you to play multiplayer on customized dedicated servers, powered by Sfx.re.
+
 ## Source Code
-- The **Vidllux source code is closed and proprietary**.  
-- It is **not available for public access, modification, or redistribution**.  
+- The Vidllux source code is closed and proprietary.  
+- It is not available for public access, modification, or redistribution.  
 - Only DJsiita Studios and authorized developers may work directly with the source.  
 
 ## Platform Use
-- While the source is protected, the **Vidllux platform is open for use**:  
+- While the source is protected, the Vidllux platform is open for use:  
   - Players may connect to and play on Vidllux-powered servers.  
-  - Developers may create content (maps, scripts, modules) through **approved APIs and SDKs**.  
+  - Developers may create content (maps, scripts, modules) through approved APIs and SDKs.  
   - Partners may deploy Vidllux servers under licensing agreements.  
 
 ## Ownership
-- All rights to the Vidllux source, binaries, services, and tools remain with **DJsiita Studios**.  
-- Vidllux is protected under **Zambian copyright law** and **international treaties (Berne Convention)**.  
+- All rights to the Vidllux source, binaries, services, and tools remain with DJsiita Studios.  
+- Vidllux is protected under Zambian copyright law and international treaties (Berne Convention).  
 - Unauthorized access, reverse engineering, or redistribution of Vidllux source code is strictly prohibited.  
 
 ## What You Can Do
