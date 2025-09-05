@@ -1,4 +1,4 @@
-# CitizenFX External Projects
+# Sfx.re External Projects
 
 This directory contains external projects which are _generally_ part of the core build in some way, but not considered
 part of the main project.
