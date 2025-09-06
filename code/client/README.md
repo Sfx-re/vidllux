@@ -1,6 +1,6 @@
 # `client/`
 
-Shared CitizenFX framework code.
+Shared Sfx.re framework code.
 
 * [**citicore/**](./citicore): CitizenFX Runtime, handles loading components and implements the CitizenFX Object Model.
 * [**citigame/**](./citigame): Auxiliary component for client-side lifecycle after bootstrapping.
