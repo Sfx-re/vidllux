@@ -1,5 +1,5 @@
 # `tools/`
-CitizenFX build infrastructure.
+Sfx.re build infrastructure.
 
 * [**build/**](./build): Premake5 build tool helpers.
 * [**ci/**](./ci): CI scripts. Confused about the build process? Look here.
